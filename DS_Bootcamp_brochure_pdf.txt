@@ -1,0 +1,525 @@
+﻿By
+THE BOOTCAMP YOU DESERVE 
+codebasics.i o 
+02 codebasics.io CODEBASICS’ STORY 
+In 2016, Dhaval Patel, the founder of    
+Codebasics, created the 'Codebasics' YouTube  
+channel to share his knowledge as a means to  
+gain mental peace during a significant health  
+struggle. He discovered his passion for  
+teaching and realised his unique ability to  
+simplify complex topics. The love and  
+blessings from thousands of students started  
+to heal his health issues. This transformative  
+experience soon became his life's purpose and  
+even led him to consider leaving his lucrative  
+job at Bloomberg, New York. 
+In 2020, one of Dhaval's subscribers, Hemanand    
+Vadivel, a data analytics expert working in  
+Europe, wished to contribute to the Codebasics’  
+community as a 'payback' for what he learned  
+from the Codebasics channel. In 2021,  
+Hemanand began creating impactful videos for  
+Codebasics, and it helped him heal from the  
+trauma of losing family members to Covid-19.  
+Seeing their shared values, Dhaval proposed a  
+collaboration: creating the best, most affordable  
+Power BI course on the planet.
+03
+JUNE 2022 
+codebasics.io 
+After six months of dedicated collaboration, they released the Power BI course in  June 2022, which was met with overwhelming positivity. By this time, both Dhaval  and Hemanand had already left their high-paying jobs to create 'Codebasics' as a  full-time learning tech company. They made this decision after discovering their  'Ikigai', their true purpose: to make a meaningful impact through education, without  any gimmicks. 
+In the era of commoditized education, where millions of courses are offered for profit  but lack true value, Dhaval and Hemanand prioritized providing authentic,  job-relevant learning experiences with honest pricing. Besides job-related  affordable courses, Codebasics offers high-quality free content and conducts several  initiatives to support aspirants including mothers returning to work. This embodies  their core vision of providing authentic job-related learning experiences to  everyone, irrespective of their financial condition. 
+JAN 2025 
+Codebasics has more than 
+1 Million+ learners 
+in their community and strongly marching  
+forward with a vision to unleash at least 
+5 Million+ potentials by 2026. 
+04 codebasics.io 
+YOUR TEACHERS ARE  
+INDUSTRY EXPERTS 
+  
+  
+
+Dhaval Patel 
+Data Entrepreneur (13+ Years), 
+YouTuber, 
+Ex - Bloomberg, NVIDIA 
+I have 18 years of experience in  Programming and Data Science  working for big tech companies like  NVIDIA and Bloomberg. I also run a  famous YouTube channel called  Codebasics where I pursue my  passion for teaching. 
+Hemanand Vadivel
+Ex- Data Analytics Manager, 
+8+ Years in Europe, Microsoft Certified,  Certified Supply Chain Professional 
+I’m a Mechanical Engineer who  transitioned to a full-time Data &  Analytics Manager in the UK &  Germany. I have delivered 30+  analytics projects over 15+ countries  and trained professionals at different  levels to equip them with valuable  analytics skills. 
+05 codebasics.io 
+DATA SCIENCE & AI BOOTCAMP: WITH PRACTICAL JOB ASSISTANCE + VIRTUAL INTERNSHIP
+Online 
+Credibility 
+for 
+Python 
+Math and 
+Statistics 
+Online 
+Credibility 
+& Domain 
+Knowledge 
+Deep 
+Learning 
+Data Science 
+Machine Learning 
+Basic SQL 
+Job Assistance  Portal, ATS  Resume and  Portfolio  
+Website 
+Optional 
+Advanced SQL 
+Virtual 
+Internship 2 
+NLP Gen AI 
+Interview 
+Prep 
+Virtual 
+Internship 1 
+Job 
+Application 
+Supplementary Learning 
+(Guided and 
+Practice Projects) 
+06 
+codebasics.io 
+WHY THIS IS THE MOST EFFECTIVE BOOTCAMP ON THIS PLANET 
+We respect both your time and money. Hence, we recommend you take our  short Data Science Survey before enrolling in our Bootcamp. 
+We offer unlimited chat support for doubt clearing through Discord. 
+We provide comprehensive practical job assistance that includes: ATS  Resume Builder, Interview Preparation, Virtual Internships, Building Online  Credibility, Job Application and Interview Playbooks. 
+You will experience highly engaging content that provides a cinematic feel,  real-world business practice problems, and interactive business meetings. 
+In this bootcamp, you won't be working on toy datasets. Instead, you'll  tackle complex datasets used by real companies, with millions of records. 
+The projects you will be working on will be related to F & B, Banking,  Healthcare, Finance, Hospitality, Automotive, Real Estate & Logistics and  more will be added in the future. 
+100% refund within 30 days and pay the difference feature. 
+Scan the 
+QR Code 
+to start the survey!
+07 codebasics.io PYTHON 
+FOR BEGINNER AND INTERMEDIATE LEARNERS 
+This project-based learning course will    
+teach Python through hands-on  
+experience with two real-world projects: (1)  
+Data analysis in the hospitality domain  
+and (2) Building an expense tracking  
+system. It is designed for both complete  
+beginners with no prior coding experience  
+and those with some Python knowledge  looking to enhance their skills. The course  is taught by an industry expert with over  14 years of experience at leading tech  companies such as Nvidia and Bloomberg. 
+6250+ Learners 
+4.8 
+Rating 
+Python Installation - Windows Python Installation - Linux Python Installation - Mac Variables 
+Numbers 
+Strings 
+Lists 
+Install Pycharm 
+If Condition 
+For Loop 
+Functions 
+Dictionary and Tuples 
+SYLLABUS 
+File Handling 
+Classes and Objects 
+Operator Overloading 
+Inheritance 
+Exception Handling 
+Main Function 
+Numpy Introduction and Benefits 
+Basic Operations 
+Matrix Operations 
+Slicing, Stacking 
+Pandas Introduction and Installation
+08 codebasics.io Modules and Pip Dataframe Basics
+Dataframe Basics 
+Read, Write Excel and CSV Files Handle NA values 
+Group By 
+Concat and Merge 
+Data Visualization Using Matplotlib and Seaborn 
+Data Exploration 
+Data Cleaning 
+Data Transformation 
+Insights Generation 
+Set and Frozenset 
+Lists, Dict and Set 
+Comprehensions 
+Code Debugging Using PyCharm Working with JSON 
+Generators and Iterators 
+Decorators 
+API 
+Calling APIs with request Package Building APIs with FastAPI Automated Testing with Pytest Data Validation with Pydantic Database CRUD Operations Streamlit Introduction (Frontend) 
+Analytics: Backend (FastAPI) & Frontend (Streamlit) 
+09 codebasics.io 09 
+SQL 
+BEGINNER TO ADVANCED FOR DATA PROFESSIONALS 
+Beginners to advanced course for those    
+preparing for a data career (data analyst,  
+data scientist, or data engineer). This  
+course is carefully curated to simulate  
+real-time organizational experience to  
+prepare you for the current job market  
+and at the same time provides you with  
+an ultimate learning experience through  a storytelling mode that you would see  in movies. 
+7940+ Learners 
+4.9 
+Rating 
+Install MySQL: Windows Install MySQL: Linux, Mac 
+SYLLABUS 
+ANY, ALL Operators 
+Correlated Subquery 
+Retrieve Data Using Text Query (SELECT, WHERE, DISTINCT, LIKE) Retrieve Data Using Numeric Query (BETWEEN, IN, ORDER BY, LIMIT, OFFSET) Summary Analytics 
+(MIN, MAX, AVG, GROUP BY) 
+HAVING Clause 
+Calculated Columns 
+(IF, CASE, YEAR, CURYEAR) 
+Joins 
+(INNER, LEFT, RIGHT, FULL,CROSS) Join More Than Two Tables Subqueries 
+Common Table Expression (CTE) CTE Benefits & Other Applications Entity Relationship Diagram (ERD) Database Normalization and Data Integrity 
+Data Types: Numeric 
+(INT, DECIMAL, FLOAT, DOUBLE) 
+Data Types: String 
+(VARCHAR, CHAR, ENUM) 
+Data Types: Date, Time 
+(DATETIME, DATE, TIME, YEAR, TIMESTAMP) Data Types: JSON, Spatial 
+(JSON, GEOMETRY)
+10 codebasics.io 
+Primary Key 
+Foreign Key 
+Entity Relationship Diagram - ERD INSERT, UPDATE, DELETE Statement ETL, Data Warehouse 
+OLAP vs OLTP, Data Catalog Fact vs Dimension Table 
+Star vs Snowflake Schema 
+Data Import 
+Simplified: What is Kanban? 
+User-Defined Functions Stored Procedures 
+Database Views 
+Window Functions OVER  Clause,ROW_NUMBER, RANK,  DENSE_RANK
+Database Triggers 
+Database Events 
+User Accounts and Privileges Database Indexes 
+11 codebasics.io MATH AND STATISTICS FOR AI, DATA SCIENCE 
+Learn the key concepts of Math and    
+Statistics that lay the foundations for a  
+strong data science career. This course is  
+carefully curated to simulate real-time  
+organizational experience to prepare you  
+for the current job market and at the  
+same time provides you with an ultimate  
+learning experience through storytelling  and intuitive explanations. 
+1360+ Learners 
+5.0 
+Rating 
+Types of Data 
+Pie Chart and Bar Chart Histograms and Line Chart Scatter and Bubble Plot 
+Univariate vs. Bivariate vs. Multivariate Analysis 
+SYLLABUS
+Percentile 
+Measures of Dispersion: Range, IQR 
+Box or Whisker Plot 
+Outlier Treatment Using IQR 
+and Box Plot 
+Measures of Dispersion: 
+Numpy Introduction and Benefits Basic Operations 
+Matrix Operations 
+Slicing, Stacking 
+Descriptive vs. Inferential Statistics 
+Measures of Central Tendency: Mean, Median, Mode 
+Variance and Standard Deviation Correlation vs Causation 
+Probability Basics 
+Addition and Multiplication Rule 
+Conditional Probability and Bayes Theorem 
+Distribution 
+12 codebasics.io Skewness Confidence Interval 
+Normal Distribution 
+Detect Outliers Using Normal Distribution 
+Z Score 
+Standard Normal Distribution (SND) Kanban Project Management Random Sampling & Sample Bias The Law of Large Numbers 
+Central Limit Theorem, 
+Sampling Distribution 
+Standard Error 
+Null vs Alternate Hypothesis Z Test, Rejection Region 
+p-Value 
+Statistical Power & Effect Size A/B Testing 
+A/B Testing Using Z Test 
+T-test 
+Chi-squared Distribution 
+Chi-squared Test of Goodness of Fit Chi-squared Test of Independence
+13 codebasics.io 
+MASTER MACHINE LEARNING FOR  DATA SCIENCE & AI 
+BEGINNER TO ADVANCED 
+Learn Machine Learning from an AI    
+entrepreneur with extensive industry  
+experience and a popular YouTube channel  
+(Codebasics) with 1 million subscribers. This  
+course takes you from beginner to advanced  
+levels, providing deep intuition on algorithms,  
+engaging cinematic experiences, end-to-end  
+projects, and hands-on coding practice.  
+Designed for easy understanding, even for  high school students, all at an affordable  price. 
+2210+ Learners 
+5.0 
+Rating 
+SYLLABUS 
+Introduction to Machine Learning Classification vs Regression 
+Supervised vs Unsupervised Learning Simple Linear Regression 
+Multiple Linear Regression 
+Cost Function 
+Derivatives and Partial Derivatives Chain Rule 
+Gradient Descent 
+Model Evaluation 
+Data Preprocessing: One Hot Encoding Polynomial Regression 
+Overfitting and Underfitting 
+L1 and L2 Regularization 
+Bias Variance Trade Off 
+Introduction to Classification 
+Logistic Regression: 
+Binary Classification 
+Model Evaluation: Accuracy, Precision and Recall, F1 Score, Confusion Matrix 
+Logistic Regression: 
+Multiclass Classification 
+Cost Function: Log Loss 
+Support Vector Machine (SVM) Data Pre-processing: Scaling Sklearn Pipeline 
+Naive Bayes
+14 codebasics.io 
+Decision Tree 
+Handle Class Imbalance 
+Introduction to Ensemble Learning 
+Majority Voting, Average and Weighted Average 
+Bagging 
+Random Forest 
+Boosting: AdaBoost 
+Gradient Boosting 
+XGBoost 
+Model Evaluation: ROC Curve & AUC 
+Cost Benefit Analysis Using ROC in Sklearn 
+K Fold Cross Validation 
+Stratified K Fold Cross Validation Hyperparameter Tuning 
+10 Stages of AI Project Lifecycle Requirements and Scope of Work (SOW) 
+Data Collection, Data Cleaning & Exploratory Data Analysis 
+Feature Engineering 
+Model Selection & Training 
+Model Fine Tuning 
+Model Deployment 
+Monitoring and Feedback Using ML Ops Variance Inflation Factor (VIF) 
+K Means Clustering
+15 codebasics.io DEEP LEARNING 
+BEGINNER TO ADVANCED 
+Deep Learning: Beginner to Advanced is a    
+comprehensive course that covers  
+everything from the fundamentals of  
+neural networks to advanced  
+architectures such as CNNs, RNNs and  
+transformers. Taught by an experienced  
+AI professional, the course emphasizes  
+practical learning through hands-on  exercises and real-world projects in  PyTorch. By the end, you'll have the skills  to confidently build, train, and deploy  deep learning models for real-world  applications. 
+SYLLABUS
+240+ Learners 
+Introduction to Deep Learning Neural Networks 
+Deep Learning vs Statistical ML Neural Network Architectures Applications of Deep Learning PyTorch vs TensorFlow 
+GPU, TPU 
+Neuron, Perceptron and MLP Activation Function 
+Sigmoid, ReLU, Tanh, SoftMax PyTorch Installation 
+PyTorch Tensor Basics 
+Autograd in PyTorch 
+Training through Backpropagation Gradient Descent 
+Theoretical Foundation, 
+PyTorch Implementation 
+Batch GD vs Mini Batch GD vs SGD Handwritten Digits Classification Model Optimization 
+Gradient Descent with Momentum Adam Optimizer 
+Regularization 
+Dropout Regularization 
+16 codebasics.io 
+Batch Normalization 
+Hyperparameter Tuning Optuna 
+CNN 
+CIFAR10 Image Classification using CNN 
+Data Augmentation 
+Transfer Learning 
+Pre-trained Models: ResNet, EfficientNet, MobileNet 
+RNN 
+Vanishing Gradient Problem 
+LSTM 
+Transformer Architecture 
+Word Embeddings 
+Attention Mechanism 
+Hugging Face: BERT Basics 
+Model Training with CNN 
+Model Training using Transfer Learning Streamlit App 
+FastAPI Server
+17 codebasics.io 
+NATURAL LANGUAGE PROCESSING (NLP) 
+This course takes you through the core concepts of NLP, covering topics such as text  preprocessing, representation techniques, and advanced tools like Hugging Face and  BERT. With a focus on hands-on exercises, it provides practical exposure to key NLP  workflows, ensuring you gain the skills required for NLP-driven roles in today’s job  market. 
+  
+  
+SYLLABUS 
+Introduction to NLP 
+NLP Pipeline 
+Tools Overview 
+Tokenization Techniques Stemming & Lemmatization Part of Speech (POS) Tagging Stop Words 
+Named Entity Recognition (NER) 
+Bag of Words, n-grams, TF-IDF Word Embeddings 
+Word Embeddings 
+News Classification with Spacy Introduction to Hugging Face Pipelines and Tokenizers BERT and Model Fine Tuning
+Regular Expressions (Regex) 
+18 codebasics.io Gen AI 
+This course explores the core concepts of Generative AI, including large language  models, RAG, vector databases, and prompt engineering. It features two real-world  projects: a real estate assistant using RAG and ChromaDB, and an e-commerce  chatbot capable of handling FAQs, managing product queries, and implementing  database-driven functionalities. With hands-on exercises and practical  implementations using tools like LangChain and Streamlit, you’ll gain the skills to  build AI applications and prepare for real-world AI roles. 
+  
+  
+SYLLABUS 
+Introduction to Generative AI 
+Applications of Generative AI Large Language Models 
+LLMs 
+Context Window 
+Temperature 
+Top-p 
+Top-k 
+Gen AI Application Development Steps Hallucinations, Security, Cost 
+Vector Database 
+RAG (Retrieval Augmented Generation) 
+Elements of a Good Prompt 
+Zero-Shot, One-Shot, 
+Few-Shot Prompting 
+LangChain Installation and Setup Calling LLM from LangChain Prompt Templates & Chains Chromadb 
+Metadata Filtering 
+Euclidean and Cosine Distance Streamlit UI Development SQLite Database Integration Bonus: Web Scraping
+19 codebasics.ioBUSINESS PROJECTS 
+HOSPITALITY DOMAIN DATA ANALYSIS 
+PYTHON 
+  
+
+By completing this project, you will: 
+Gain deep domain knowledge in the hotel industry, specifically in data  analysis for operations, customer behaviour, revenue management, and  market trends. 
+Acquire essential technical skills using Python's Pandas library, including  data cleaning, transformation, EDA, statistical analysis, and visualization. 
+Recognize the high relevance of data-driven insights in today's business  world for making informed decisions, optimizing operations, and enhancing  customer experiences, not just in the hotel industry but across various  sectors. 
+20 codebasics.io EXPENSE TRACKING SYSTEM PYTHON
+
+By completing this project, you will: 
+Develop practical knowledge of expense management systems by  building an application that tracks and analyses day-to-day expenses,  such as rent, shopping, and food, providing users with a comprehensive  view of their spending habits. 
+Master key technical skills, including Python basics, database  interactions with MySQL, backend development using FastAPI, and  frontend design using the Streamlit framework, gaining end-to-end  application development experience. 
+Understand the value of analytics in financial decision-making by  implementing features like category-wise and month-wise expense  breakdowns, making this project relevant for aspiring software  engineers, data scientists, and data analysts. 
+21 codebasics.io FINANCE AND TOP N INSIGHTS SQL
+Gain domain knowledge in finance analytics for the consumer goods  industry, focusing on generating reports for key metrics. 
+Develop technical skills in efficient SQL querying, utilizing User-Defined  Functions, creating and executing stored procedures, and leveraging  views for data analysis. 
+Understand the significance of data-driven financial decision-making in  today's competitive business landscape. 
+Drive sustainable growth by utilizing automated reporting solutions, such  as stored procedures, to provide accurate and real-time information for  financial analysis and decision-making. 
+22 
+SUPPLY CHAIN ANALYTICS 
+codebasics.io
+AND MODEL OPTIMISATION SQL 
+By completing this project, you will: 
+Gain domain knowledge in supply chain analytics for the consumer goods  industry, focusing on forecasting errors and absolute error calculation. 
+Develop technical skills in creating helper tables, managing triggers, and  optimizing query execution time. 
+Understand the significance of accurate demand forecasting for consumer  goods companies and how supply chain analytics can achieve it. 
+Acquire practical experience through hands-on exercises and real-world  examples in consumer goods supply chain analytics. 
+23 codebasics.io 
+ATLIQO BANK PROJECT 
+MATH AND STATISTICS
+
+By completing this project, you will: 
+Gain hands-on experience in the banking sector by working on a  large-scale data analysis project aimed at identifying the target market  for a new credit card launch, simulating real-life industry challenges with  over 50,000 records. 
+Master essential data analysis techniques, including data validation,  cleaning, handling outliers, MySQL setup, and data visualization using  Python, while performing critical tasks like credit score analysis, correlation  studies, and hypothesis testing. 
+Understand the role of A/B testing and statistical decision-making in  marketing campaigns, providing insights into customer segmentation and  campaign effectiveness, which are applicable across various industries. 
+24 codebasics.io 
+HEALTHCARE PREMIUM PREDICTION (REGRESSION) 
+MACHINE LEARNING
+
+By completing this project, you will: 
+Gain domain knowledge in the healthcare industry by predicting  insurance premiums using machine learning regression models, covering  real-world tasks like data collection, model training, and deployment. 
+Develop advanced technical skills in data cleaning, exploratory data  analysis (EDA), feature engineering, and regression model fine-tuning,  achieving high accuracy while performing error analysis and  segmentation. 
+Understand the practical application of machine learning in predicting  financial outcomes, and learning to build and deploy models using Python,  Streamlit, and other tools for real-time decision-making across industries. 
+25 codebasics.io 
+CREDIT RISK MODELLING (CLASSIFICATION) 
+MACHINE LEARNING
+
+By completing this project, you will: 
+Gain valuable insights into the financial domain, particularly  non-banking financial companies (NBFCs) and credit approval  processes, by developing a credit risk model to classify potential  defaulters. 
+Acquire technical expertise in data cleaning, exploratory data analysis  (EDA), feature engineering (WOE/IV), and model training, with a focus on  classification techniques, model fine-tuning using Optuna, and  evaluation metrics like KS Statistic and Gini Coefficient. 
+Learn how to deploy machine learning models by building a Streamlit  app, delivering business presentations, and applying credit risk modelling  principles across various financial sectors. 
+26 codebasics.io BEVERAGE PRICE RANGE PREDICTION 
+
+By completing this project, you will: 
+Gain valuable insights into market pricing strategies by building a  predictive model that forecasts optimal price ranges for beverages,  helping businesses avoid overselling or underselling based on survey  data. 
+Develop essential technical skills in machine learning, including data  cleaning, validation, feature engineering, and model deployment using  Python, ensuring the creation of an accurate and reliable classification  model. 
+Understand how predictive models drive business growth and  competitiveness by enabling data-driven pricing decisions, applicable  across various sectors beyond the beverage industry.
+27 codebasics.io CAR DAMAGE DETECTION USING CNN
+
+Gain domain knowledge in the automotive industry by developing a deep  learning model to detect car damages using Convolutional Neural Networks  (CNN) and Transfer Learning, covering real-world tasks like data  preprocessing, model training, and deployment. 
+Acquire advanced technical skills in data augmentation, fine-tuning CNN  models, hyperparameter optimization using Optuna, and error analysis to  improve model accuracy and performance. 
+Learn how to deploy deep learning models using Python, Streamlit, and  FastAPI, creating a real-time car damage detection system that can be  applied in the automotive industry for automated damage assessment. 
+28 codebasics.io REAL ESTATE ASSISTANT USING RAG 
+
+Gain domain knowledge in the real estate industry by developing a  generative AI solution using Retrieval-Augmented Generation (RAG) to  assist with property-related queries, applying advanced techniques for  efficient data retrieval and answer generation. 
+Develop technical expertise in integrating RAG with Chroma DB for data  storage, implementing retrieval and answer generation mechanisms, and  fine-tuning the system for accurate and relevant responses. 
+Learn to deploy the solution with a user-friendly Streamlit interface,  enabling seamless interaction for end-users and gaining experience in  building scalable, interactive AI systems.
+29 codebasics.io E-COMMERCE CHATBOT 
+
+Gain domain knowledge in the e-commerce industry by building an  AI-powered chatbot capable of handling FAQs, product queries, and  assisting customers with purchase decisions, utilizing advanced NLP  techniques and semantic routing. 
+Acquire technical expertise in integrating an SQLite database for dynamic  product information handling, as well as implementing a chatbot to provide  real-time responses and personalized customer assistance. 
+Learn to deploy the chatbot using a Streamlit UI for seamless interactions,  gaining hands-on experience in developing real-time customer-facing AI  applications.
+30 codebasics.io VIRTUAL INTERNSHIPS 
+In our virtual Internship, you’ll gain practical experience in Data Science. You’ll gain  good knowledge in data cleaning, data validation, reporting, feature engineering,  model deployment and client handling. You will also learn scrum project  management and improve debugging skills. With a problem-solving mindset, you’ll  be ready to tackle any data challenge and make a meaningful impact. 
+OPTIONAL
+In our Virtual Internship 2, you will work on client projects focused on AI solutions. For  Stale Fruit Detection, you will develop a deep learning model to automate freshness  checks in cold storage warehouses. In the RAG-Based Q&A System for Healthcare  Professionals, you will build a pipeline to query PubMed articles and generate  relevant responses using a Streamlit UI. 
+
+31 codebasics.io STALE FRUIT DETECTOR FOR A LOGISTICS COMPANY 
+Gain domain knowledge in the agri-tech industry by developing a  CNN-based deep learning model to detect stale fruit in cold storage  warehouses, applying real-world techniques such as data augmentation,  model training, and fine-tuning. 
+Develop advanced technical skills in transfer learning, data preprocessing,  and model optimization to enhance detection accuracy, ensuring reliable  classification of fresh and stale fruit in real-world warehouse environments. 
+Learn how to deploy a user-friendly Streamlit app that allows clients to  upload images for real-time stale fruit detection, improving warehouse  operations and quality control through automation. 
+RAG BASED Q & A SYSTEM FOR 
+HEALTHCARE PROFESSIONALS 
+Gain domain knowledge in the healthcare industry by developing a Q&A  system for healthcare professionals, leveraging Retrieval-Augmented  Generation (RAG) to provide accurate, context-driven answers from PubMed  articles. 
+Develop advanced technical skills in data ingestion, document retrieval, and  RAG-based question answering using large language models (LLM) like  Llama 3, integrating a robust pipeline for efficient querying and response  generation. 
+Learn to deploy the solution with a Streamlit UI, enabling real-time  interactions for healthcare professionals to query articles and receive  relevant responses in an easy-to-use interface.
+32 codebasics.io DAILY DISCORD CHAT SUPPORT 
+Get unlimited doubt-clearing support through our active Discord community. This  dedicated platform allows you to interact with fellow learners and mentors, ensuring  your questions are answered promptly and fostering collaborative learning throughout  your journey. 
+
+LEARNING COMMUNITY 
+INDIAN DATA CLUB (IDC)
+Join our vibrant new community, the Indian Data Club (IDC), designed to enhance your  learning experience. Participate in regular meetups, engage in weekly quizzes, and  attend live sessions to stay connected, learn collaboratively, and grow with like-minded  individuals. 
+
+33 codebasics.io PROJECT PORTFOLIO WEBSITE 
+Having a PROJECT PORTFOLIO WEBSITE is a fantastic way to stand out from the  crowd and to show the proof of your work. This is the right way to convince the  hiring managers to call you for an interview especially if you are a fresher or  someone from a non-technical background. We advised our learners to create a  portfolio website but noticed that they found it challenging to create a compelling  portfolio website from scratch due to the lack of proper tools in the market. 
+Hence, we ended up creating a feature to automate the PORTFOLIO WEBSITE within  our bootcamp so our learners can focus on practice and interview preparation.To  meet various preferences and needs, we now offer different themes for portfolio  websites. Choose the style that best represents your professional image and  effectively showcases your work. 
+This is how your landing page would look like 
+More templates available in our Bootcamp
+34 codebasics.io
+35 codebasics.io ATS RESUME BUILDER
+Our ATS Resume Builder helps you create professional resumes effortlessly. Enter your  details, and the tool formats them in a structured way. It ensures your resume looks clear  and well-organized. Save time and focus on applying for jobs. Perfect for showcasing  your skills effectively.  
+
+36 codebasics.io ONLINE CREDIBILITY 
+This module is all about using the internet to boost your chances of finding a job, getting  better career opportunities, and freelancing. It will also teach you how to build your own  personal brand for long-term benefits 
+By the end of this module, you will have an updated LinkedIn profile picture, banner  image, and about section. Additionally, you will receive the following action steps. 
+01 
+02 03 04 
+3-step framework to build your online  credibility with proven results.  
+5 Advanced Tips for super growth 
+10 post-writing templates for high engagement 
+Curated list of people to Follow / Connect for  Data Professionals
+37 codebasics.io SMART JOB ASSISTANCE PORTAL
+Through this job portal, you can review and optimize your resume, project portfolio, and  LinkedIn profile with the assistance of a dedicated talent management team. You can  also find relevant job openings and receive comments from the talent management  team, such as which keywords to use and which projects to discuss. Additionally, there is  space to add and track applications. This portal will continuously help you upgrade to  ensure we assist you in the best possible way.  
+
+38 codebasics.io JOB APPLICATION PLAYBOOK
+Spending just 20-30 minutes with this playbook can save you at least 30 days of effort  in your journey.  
+Crack the game of applying for jobs with our Playbook! From comprehensive steps to  actionable tips, learn strategies that truly work and boost your chances of landing an  interview call.  
+
+39 codebasics.io INTERVIEW PLAYBOOK 
+Ace your interviews with our comprehensive playbook! Follow a step-by-step guide to  prepare for interviews, present your best self, clarify questions with the interviewer, and  confidently handle technical queries. Learn how to showcase your skills effectively and  leave a lasting positive impression. Your ultimate guide to mastering interviews with  confidence. 
+
+40 codebasics.io FROM FOUNDER’S DESK
+Hello, I'm Dhaval Patel, and I want to share how and why I started the  Codebasics YouTube channel. It all began during one of the darkest periods of my  life. In 2011, while working for Bloomberg, I was diagnosed with Ulcerative  colitis, a painful autoimmune disease. Despite trying numerous treatments, my  health continued to decline. By 2015, I felt hopeless and constantly in pain. 
+During this time, I stumbled upon a  
+life-changing quote: 
+"Life is 10% what happens to you  
+and 90% how you react." 
+Determined to shift my focus and find joy, I  
+sought an activity that I enjoyed and that  
+allowed me to help others. Given my  
+teaching abilities and inclination to share  
+knowledge, I started the Codebasics  
+YouTube channel. Teaching became an  
+outlet for me, enabling me to make a positive  
+impact and share my expertise. 
+With each "Thank you" comment I received on my videos, my sense of  purpose and will to live grew stronger. Over time, the Codebasics community  flourished, and we now have over 1.2 Million+ subscribers on YouTube and  more than 44K+ paid learners I've left my full-time job in the year 2022 to  dedicate myself to Codebasics fully. My goal is to continue sharing my  knowledge and creating a positive impact through this platform. 
+Use my story as to remind yourself that life is not always going to be easy but  you can rise above that and make the world a better place to live for yourself  and others. 
+135K+ 40K+ 1.2M+ 495K+
+info@codebasics.io www.codebasics.io January -2025
